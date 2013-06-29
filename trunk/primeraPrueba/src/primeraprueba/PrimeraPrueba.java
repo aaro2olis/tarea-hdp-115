@@ -19,5 +19,7 @@ public class PrimeraPrueba {
         System.out.println("prueba del proyecto, soy julio cesar " ) ; 
         System.out.println("hola" ) ;
         
+        
+        System.out.println("gracias por haber movido el tercer parcial, pero estaba algo confuso ojala salgamos bien" ) ;
     }
 }
