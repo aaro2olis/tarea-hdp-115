@@ -28,6 +28,8 @@ public class PrimeraPrueba {
         System.out.println("minimo un 8 necesitamos!!!! " );
         
         int num;
+        float sum;
+        
         
     }
 }
