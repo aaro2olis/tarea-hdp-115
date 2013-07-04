@@ -27,6 +27,7 @@ public class PrimeraPrueba {
         System.out.println("hoy nos toca que nos revise el ingeniero Martinez la tarea" );
         System.out.println("minimo un 8 necesitamos!!!! " );
         
+        int num;
         
     }
 }
