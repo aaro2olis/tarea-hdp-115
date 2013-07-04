@@ -29,7 +29,7 @@ public class PrimeraPrueba {
         
         int num;
         float sum;
-        
+        String nombre;
         
     }
 }
