@@ -23,5 +23,10 @@ public class PrimeraPrueba {
         System.out.println("gracias por haber movido el tercer parcial, pero estaba algo confuso ojala salgamos bien" ) ;
         
         System.out.println("brazil humillo a españa en la final de la copa confederaciones" );
+        
+        System.out.println("hoy nos toca que nos revise el ingeniero Martinez la tarea" );
+        System.out.println("minimo un 8 necesitamos!!!! " );
+        
+        
     }
 }
