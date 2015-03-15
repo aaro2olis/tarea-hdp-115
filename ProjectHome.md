@@ -1,0 +1,1 @@
+con este proyecto se van a realizar pruebas las cuales deberan demostrar la completa funcionalidad de los programas asignados a nuestro grupo
